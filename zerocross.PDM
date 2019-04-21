@@ -1,0 +1,186 @@
+[Root]
+Most Recent Package=Zero Cross
+
+
+[Package|cross x|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=f:\Cross x setup
+
+[Package|cross x|Configure DAO ISAMs]
+Applicable=No
+
+[Package|cross x|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|cross x|Files Found]
+
+[Package|cross x|Files Released]
+
+[Package|cross x|Missing Dependency Information]
+
+[Package|cross x|Out-of-Date Dependency Information]
+
+[Package|cross x|Files Added]
+
+[Package|cross x|Files Removed]
+
+[Package|cross x|Files In Project]
+C:\Users\Abhi\Desktop\zero cross game\Project1.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|cross x|Configure Registry Files]
+Applicable=No
+
+[Package|cross x|Configure Remote Servers]
+Applicable=No
+
+[Package|cross x|Install Locations]
+C:\Users\Abhi\Desktop\zero cross game\Project1.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|cross x|Configure Shared Files]
+Applicable=Yes
+C:\Users\Abhi\Desktop\zero cross game\Project1.exe=Yes
+
+[Package|cross x|Distribution]
+Type=single
+Size=
+Title=Tic Tac Toe Game [Developed by Sat Singh]
+
+[Package|cross x|Package]
+PackageFolder=f:\Cross x setup
+ProjectFolder=C:\Users\Abhi\Desktop\zero cross game
+ServerSideCab=
+File1=f:\Cross x setup\setup.exe
+File2=f:\Cross x setup\Setup.Lst
+File3=f:\Cross x setup\Project1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|cross x|IconGroups]
+Group0=Tic_Tac_Toe Game                 Developed by: Sat Singh
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|cross x|Tic_Tac_Toe Game                 Developed by: Sat Singh]
+Icon1=Project1.exe
+Title1=Tic Tac Toe Game                 Developed by  Sat Singh
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Zero Cross|Zero Cross]
+Icon1=Project1.exe
+Title1=Zero Cross
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Zero Cross|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=f:\Zero Cross setup
+
+[Package|Zero Cross|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Zero Cross|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Zero Cross|Files Found]
+
+[Package|Zero Cross|Files Released]
+
+[Package|Zero Cross|Missing Dependency Information]
+
+[Package|Zero Cross|Out-of-Date Dependency Information]
+
+[Package|Zero Cross|Files Added]
+c:\users\abhi\desktop\read me.txt=
+
+[Package|Zero Cross|Files Removed]
+
+[Package|Zero Cross|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Users\Abhi\Desktop\Zero Cross.exe=Yes
+C:\Users\Abhi\Desktop\read me.txt=Yes
+
+[Package|Zero Cross|Configure Registry Files]
+Applicable=No
+
+[Package|Zero Cross|Configure Remote Servers]
+Applicable=No
+
+[Package|Zero Cross|Install Locations]
+C:\Users\Abhi\Desktop\zero cross game\Project1.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\Abhi\Desktop\Zero Cross.exe=$(AppPath)
+C:\Users\Abhi\Desktop\read me.txt=$(ProgramFiles)
+
+[Package|Zero Cross|Configure Shared Files]
+Applicable=Yes
+C:\Users\Abhi\Desktop\zero cross game\Project1.exe=Yes
+C:\Users\Abhi\Desktop\Zero Cross.exe=Yes
+C:\Users\Abhi\Desktop\read me.txt=No
+
+[Package|Zero Cross|Distribution]
+Type=single
+Size=1.44 MB
+Title=Zero Cross (Developed By:-Sat Singh)
+
+[Package|Zero Cross|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=True
+Parent0=
+
+[Package|Zero Cross|$(Programs)]
+Icon1="Zero Cross.exe"
+Title1=Zero Cross
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|Zero Cross|Package]
+PackageFolder=f:\Zero Cross setup
+ProjectFolder=C:\Users\Abhi\Desktop\zero cross game
+ServerSideCab=
+File1=f:\Zero Cross setup\setup.exe
+File2=f:\Zero Cross setup\Setup.Lst
+File3=f:\Zero Cross setup\Zero Cross.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

@@ -1,0 +1,41 @@
+Zero-cross VERSION 1.0.0 (Devloped by Sat Singh) 
+ 
+Next Zero-Cross version will be available in May, 2013.
+
+THIS PRORAM IS FOR Entertainment PURPOSES ONLY!
+
+Installation
+* It is really easy to install Zero-Cross; this part is intended for newbies only.
+
+Installing is very easy.
+
+First, unzip Zero-Cross.zip
+(which you probably already did to read this).
+Then, Double click Zero-Cross Setup.
+
+Introduction
+
+Welcome to Zero-Cross (Developed by: Sat Singh), 
+In order to play the Zero-cross game,
+You just have to click on the particular position on the board where you want to place your move (“0” or “X”).
+And if the three Zeros or Three X’s are in the Same straight  or diagonal line, then the system draw a line on that, this means that player who place that move is wins that game.
+
+Registration
+
+Zero-Cross is freeware. Yet, you may register in order to get your own
+Personalized version without my name at all
+(if you're interested) 
+The personalized version contains your name and whatever special features
+You want me to add to that.
+You may E-Mail to: satsingh44178@gmail.com, for any of these reasons.
+But don't worry – Zero-Cross is completely free and may be passed on freely,
+You may use it for any amount of time,
+
+Thank you.
+
+Comments
+For Any Comments, Suggestions or Ideas? That's good.
+
+You could E-mail me at:satsingh44178@gmail.com
+
+
